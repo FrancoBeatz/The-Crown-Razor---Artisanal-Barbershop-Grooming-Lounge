@@ -1,0 +1,6 @@
+{
+  "name": "The Crown & Razor - Artisanal Barbershop & Grooming Lounge",
+  "description": "Premium heritage barbershop offering master precision haircuts, traditional hot lather straight-razor shaves, beard sculpting, and luxury grooming rituals with instant booking and calendar sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
